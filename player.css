@@ -37,7 +37,7 @@
     position: relative;
 }
 .on {
-    background: url('images/bgm-4-s.jpg') no-repeat 0 0;
+    background: url('images/bgm-3-s.jpg') no-repeat 0 0;
     -webkit-animation: rotating 20s linear infinite;
     animation: rotating 20s linear infinite;
     animation-play-state: running;
