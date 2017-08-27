@@ -18,8 +18,8 @@
     height: 600px;
     position: absolute;
     display: inline-block;
-    /*-webkit-filter: blur(2px);
-    filter: blur(2px);*/
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
     background-repeat: no-repeat;
     left: 1px;
     top: 1px;
